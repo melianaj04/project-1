@@ -1,1 +1,1 @@
-A tutorial for spring 2020 
+For Com 421
